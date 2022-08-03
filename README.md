@@ -1,0 +1,3 @@
+- 🎉 Hey hey, I'm DoDo and this is my personal repo
+- 👀 What you can find here? Well, some hobby projects from various domains. 
+- However, the project to which I dedicate most of my free time is https://github.com/aphgames. Therefore - check this one out as well, you will find a lot of great gaming stuff - lectures, examples, minigames, and more!
